@@ -30,10 +30,7 @@ const BarChart = () => {
             type="bar"
             height="240"
         />
-
-
     );
-
 }
 
 export default BarChart;
