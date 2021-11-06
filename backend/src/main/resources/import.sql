@@ -1,5 +1,5 @@
-INSERT INTO tb_sellers(name) VALUES ('Logan');
-INSERT INTO tb_sellers(name) VALUES ('Anakin');
+INSERT INTO tb_sellers(name) VALUES ('Fabio');
+INSERT INTO tb_sellers(name) VALUES ('Leo');
 INSERT INTO tb_sellers(name) VALUES ('Lohana');
 INSERT INTO tb_sellers(name) VALUES ('Karol');
 INSERT INTO tb_sellers(name) VALUES ('Padme');
